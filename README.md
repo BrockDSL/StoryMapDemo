@@ -1,13 +1,24 @@
 ![Tool Logo][imglogo]
 
 
-# Title
-Description of contents
+# Creating an ArcGIS StoryMap (Geocaching)
+This guide is accompanied by the prepared images, narrative text and links provided from above. Download and unzip the folder containing the story map elements (StoryMapDemo.zip) before beginning. Each STEP below correlates to the STEP listed in the GEOCACHING.docx file. OPEN this Word file and keep it open for this tutorial.
 
-### First header
-Content
+a)	Using Google Chrome, go to [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories)
+b)	Sign in using your Brock University credentials as described in the first minute of this video: [https://youtu.be/GqH4UHTUf2s](https://youtu.be/GqH4UHTUf2s)
+c)	Click +New Story > Start from scratch.
 
-### Second Header
+
+### Step One
+1.	Enter a title: GEOCACHING
+2.	Enter a subtitle: (GEE-OH-CASH-ING)
+3.	To add a background image to the title page, click ADD COVER IMAGE OR VIDEO and navigate to geocaching-title-page.jpg then select the image and click Add.
+4.	Click DESIGN at the top of the window and choose COVER > FULL
+
+![image1.png][imglogo]
+
+
+### Step Two
 
 Content
 
