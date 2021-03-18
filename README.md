@@ -24,7 +24,10 @@ c)	Click +New Story > Start from scratch.
 
 ### Step Two
 
-Content
+1. Click ![textblock](GeocachingAssets\image3.png) and enter the following text "The sport where YOU are the search engine!"
+2. To style it as a quote, highlight the text and select Quote from the dropdown list.  
+
+![quote](..\GeocachingAssets\image4.png)
 
 ### Etc.
  
