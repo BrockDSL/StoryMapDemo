@@ -136,12 +136,10 @@ NOTE: see the DETAILS document for slide title ideas.
 2.	Insert text and format as a heading: “Let’s play!”
 3.	Insert embed: copy and paste the URL https://www.geocaching.com/play to create a card that users can click to access the official geocaching website.
 4.	Insert Buttons for the app stores:
->Google Play Store https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro&referrer=utm_source%3Dgeocaching-website%26utm_campaign%3DQ1-2018-update-logged-out-home-page   
-
+>Google Play Store https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro&referrer=utm_source%3Dgeocaching-website%26utm_campaign%3DQ1-2018-update-logged-out-home-page
 >Apple App Store https://itunes.apple.com/app/apple-store/id329541503?pt=61076&ct=Q1-2018-update-logged-out-home-page&mt=8 
-
-
-
+   
+   
  ### Step Eleven
 
 1.	Insert a heading: “Sources”
