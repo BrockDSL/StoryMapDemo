@@ -24,8 +24,8 @@ c)	Click +New Story > Start from scratch.
 
 ### Step Two
 
-1. Click ![textblock](./GeocachingAssets/image3.png)and enter the following text "The sport where YOU are the search engine!"
-2. To style it as a quote, highlight the text and select Quote from the dropdown list.  
+1. Click the TEXT option and enter the type "The sport where YOU are the search engine!" 
+2. To style it as a quote, highlight the text and select Quote from the dropdown list. Note: the quoted text will appear unique depending on the theme chosen for the storymap.   
 
 ![quote](./GeocachingAssets/image4.png)
 
@@ -37,7 +37,9 @@ c)	Click +New Story > Start from scratch.
 
 >Geocaching is a GPS-enabled treasure hunt played in over 190 countries across the world. In this game, outdoor enthusiasts follow GPS coordinates to explore new locations and find caches hidden by fellow geo-explorers in public spaces. If you find a cache, sign the log book, take a piece of the treasure, leave a piece of treasure then go home and post your experience on http://www.geocaching.com!!
 
-11.	Highlight the URL, hit CTRL-C to copy it then select the link and hit CTRL-V to paste the URL.
+3.	Highlight the URL, hit CTRL-C to copy it then select the link and hit CTRL-V to paste the URL.
+
+### Step Four
 
 
 
