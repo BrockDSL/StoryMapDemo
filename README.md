@@ -15,19 +15,19 @@ c)	Click +New Story > Start from scratch.
 3.	To add a background image to the title page, click ADD COVER IMAGE OR VIDEO and navigate to geocaching-title-page.jpg then select the image and click Add.  
 4.	Click DESIGN at the top of the window and choose COVER > FULL  
 
-![titlepage](\GeocachingAssets\image1.png)  
+![titlepage](./GeocachingAssets/image1.png)  
 
 5.	Scroll down and start to tell your story…  
 6.	Click the plus sign to see the components available to add to your story.   
 
-![blockcontent](\GeocachingAssets\image2.png)  
+![blockcontent](./GeocachingAssets/image2.png)  
 
 ### Step Two
 
 1. Click ![textblock](GeocachingAssets\image3.png) and enter the following text "The sport where YOU are the search engine!"
 2. To style it as a quote, highlight the text and select Quote from the dropdown list.  
 
-![quote](..\GeocachingAssets\image4.png)
+![quote](./GeocachingAssets/image4.png)
 
 ### Etc.
  
