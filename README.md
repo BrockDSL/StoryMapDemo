@@ -1,4 +1,4 @@
-![StoryMapsLogo][StoryMapsLogo.png]
+![StoryMapsLogo](StoryMapsLogo)
 
 
 # Creating an ArcGIS StoryMap (Geocaching)
