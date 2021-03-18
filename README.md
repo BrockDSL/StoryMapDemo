@@ -15,7 +15,7 @@ c)	Click +New Story > Start from scratch.
 3.	To add a background image to the title page, click ADD COVER IMAGE OR VIDEO and navigate to geocaching-title-page.jpg then select the image and click Add.  
 4.	Click DESIGN at the top of the window and choose COVER > FULL  
 
-![imglogo][image1.png]  
+![titlepage](image1.png)  
 
 5.	Scroll down and start to tell your story…  
 6.	Click the plus sign to see the components available to add to your story.   
