@@ -10,12 +10,15 @@ c)	Click +New Story > Start from scratch.
 
 
 ### Step One
-1.	Enter a title: GEOCACHING
-2.	Enter a subtitle: (GEE-OH-CASH-ING)
-3.	To add a background image to the title page, click ADD COVER IMAGE OR VIDEO and navigate to geocaching-title-page.jpg then select the image and click Add.
-4.	Click DESIGN at the top of the window and choose COVER > FULL
+1.	Enter a title: GEOCACHING  
+2.	Enter a subtitle: (GEE-OH-CASH-ING)  
+3.	To add a background image to the title page, click ADD COVER IMAGE OR VIDEO and navigate to geocaching-title-page.jpg then select the image and click Add.  
+4.	Click DESIGN at the top of the window and choose COVER > FULL  
 
-![image1.png][imglogo]
+![imglogo][image1.png]  
+
+5.	Scroll down and start to tell your story…  
+6.	Click the plus sign to see the components available to add to your story.   
 
 
 ### Step Two
