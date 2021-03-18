@@ -41,6 +41,52 @@ c)	Click +New Story > Start from scratch.
 
 ### Step Four
 
+1.	Add a video, copy and paste the video URL under the link tab.  
+
+https://www.youtube.com/embed/vuFiLhhCNww
+ 
+2.	Click Add.  
+
+### Step Five
+
+1.	To add an image, click  
+2.	Browse to GPS.jpg and click Add.
+3.	From the position options, choose float.  
+4.	Click “Add a caption for this image (optional)” and enter the caption ‘GPS Navigation Satellite Schematic’
+5.	Click the space to the right of the image (Continue your story…) and add a heading “What is GPS?”
+6.	Hit Enter and start adding paragraph text. Copy/paste the paragraph from the DETAILS document. 
+
+
+>GPS stands for Global Positioning System. This system represents a constellation of 30 satellites operated by the U.S. Department of Defense. These satellites travel in controlled orbits approximately 20,000 kilometres above the earth’s surface, making two complete rotations every day. The orbits are arranged so that at anytime, anywhere on Earth, there are at least four satellites “visible” in the sky. Each satellite transmits a complex radio signal including an extremely accurate time signal. Using a GPS receiver (from recreational devices to survey-grade instruments) satellite radio signals are received and simple trigonometry calculations determine a precise position on the earth’s surface. A minimum of 3 satellite signals is required but most GPS units can access up to 12 or more for increased accuracy. (https://en.wikipedia.org/wiki/Global_Positioning_System)
+The result will look like this:
+
+![paragraph](./GeocachingAssets/image6.png)  
+
+### Step Six
+
+1. Insert a heading: “What does a geocache look like?”
+2.	Add paragraph text:
+>Traditional geocaches require some sort of container for placing a logbook and/or various treasures for swapping. The original cache container mimicked the iconic metal ammo can but after nearly two decades of geocaching, all manner of container can be found!
+
+3.	For those working from a subscription account, add embedded content: 
+https://www.geocaching.com/blog/2019/11/the-evolution-of-geocaches/  
+ 
+The content is displayed as a “card”. Viewers can click on the card to see more content.
+
+![evolution](./GeocachingAssets/image7.png) 
+
+4.	Alternately, add an image: Browse to *cache-containers.jpg* and add a caption describing the containers as follows:  
+>Spider "Nano", Bubble Gum "Micro", Ammo box "Large", Peanut Butter Jar "Traditional"
+
+![containers](./GeocachingAssets/image8.png)
+
+
+
+
+
+
+
+
 
 
 ### Etc.
