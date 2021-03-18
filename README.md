@@ -145,12 +145,12 @@ NOTE: see the DETAILS document for slide title ideas.
 1.	Insert a heading: “Sources”
 2.	In a Paragraph section, copy and paste the list of sources:
 >1.	The Evolution of Geocaches [blog post]. (November 19, 2019). Retrieved September 14, 2020 from https://www.geocaching.com/blog/2019/11/the-evolution-of-geocaches/
-2.	X Marks the Spot: What is geocaching and how does it work [blog post]. (December 12, 2018). Retrieved September 14, 2020 from https://mapscaping.com/blogs/geo-candy/what-is-geocaching-how-does-it-work
-3.	GEOCACHING [website]. (copyright 2000-2019). Retrieved September 14, 2020 from https://www.geocaching.com
-4.	Global Positioning Systems [website]. (November 25, 2019). Retrieved September 14, 2020 from https://en.wikipedia.org/wiki/Global_Positioning_System
-5.	A struggling town is reviving itself with… Geocaching [website]. (March 30, 2018). Retrieved September 14, 2020  from https://www.vice.com/en_us/article/qvxvq5/wilberforce-canada-stuggling-town-geocaching-capital
-6.	Getting Started with ArcGIS StoryMaps [website]. (October 30, 2019). Retrieved September 14, 2020 from https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4 
-7.	ArcGIS StoryMaps Frequently Asked Questions [website]. Retrieved September 14, 2020 from https://doc.arcgis.com/en/arcgis-storymaps/get-started/faq.htm
+>2.	X Marks the Spot: What is geocaching and how does it work [blog post]. (December 12, 2018). Retrieved September 14, 2020 from https://mapscaping.com/blogs/geo-candy/what-is-geocaching-how-does-it-work
+>3.	GEOCACHING [website]. (copyright 2000-2019). Retrieved September 14, 2020 from https://www.geocaching.com
+>4.	Global Positioning Systems [website]. (November 25, 2019). Retrieved September 14, 2020 from https://en.wikipedia.org/wiki/Global_Positioning_System
+>5.	A struggling town is reviving itself with… Geocaching [website]. (March 30, 2018). Retrieved September 14, 2020  from https://www.vice.com/en_us/article/qvxvq5/wilberforce-canada-stuggling-town-geocaching-capital
+>6.	Getting Started with ArcGIS StoryMaps [website]. (October 30, 2019). Retrieved September 14, 2020 from https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4 
+>7.	ArcGIS StoryMaps Frequently Asked Questions [website]. Retrieved September 14, 2020 from https://doc.arcgis.com/en/arcgis-storymaps/get-started/faq.htm
 
 ### STEP TWELVE
 1.	Insert image (Brock-Aerial.jpg)
@@ -174,17 +174,17 @@ As you work to develop your story map, the interface automatically saves your ch
 To access your stories in the future, go to https://storymaps.arcgis.com/stories and sign in using the same credentials you used to create the story map. You will see all your authored stories listed here.
 
 #### STEP SIXTEEN - Continue Learning
-•	Geocaching Story Map https://arcg.is/1Hv9Da 
-•	Story Maps Overview https://bit.ly/2MRMQ7w 
-•	Getting Started with StoryMaps https://bit.ly/2MTQ36F 
-•	Digital Mapping Workshop https://bit.ly/38IkDZv 
-•	Story + Maps: Part 1 https://arcg.is/uWTzC
-•	Story + Maps: Part 2 https://arcg.is/1rvf0X 
-•	Explore Stories (examples) https://bit.ly/3882V1T 
-•	Qualitative Research Café https://bit.ly/367v6fs 
-•	Putting Your Research on the Map https://bit.ly/2RrxWb9
-•	Classic Story Map Templates https://bit.ly/33Z7Hf2
-•	Contact us maplib@brocku.ca or sjanzen@brocku.ca 
+•	Geocaching Story Map https://arcg.is/1Hv9Da  
+•	Story Maps Overview https://bit.ly/2MRMQ7w  
+•	Getting Started with StoryMaps https://bit.ly/2MTQ36F  
+•	Digital Mapping Workshop https://bit.ly/38IkDZv  
+•	Story + Maps: Part 1 https://arcg.is/uWTzC  
+•	Story + Maps: Part 2 https://arcg.is/1rvf0X  
+•	Explore Stories (examples) https://bit.ly/3882V1T  
+•	Qualitative Research Café https://bit.ly/367v6fs  
+•	Putting Your Research on the Map https://bit.ly/2RrxWb9  
+•	Classic Story Map Templates https://bit.ly/33Z7Hf2  
+•	Contact us maplib@brocku.ca or sjanzen@brocku.ca   
 
  
  
