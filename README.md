@@ -4,9 +4,9 @@
 # Creating an ArcGIS StoryMap (Geocaching)
 This guide is accompanied by the prepared images, narrative text and links provided from above. Download and unzip the folder containing the story map elements (StoryMapDemo.zip) before beginning. Each STEP below correlates to the STEP listed in the GEOCACHING.docx file. OPEN this Word file and keep it open for this tutorial.
 
-a)	Using Google Chrome, go to [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories)
-b)	Sign in using your Brock University credentials as described in the first minute of this video: [https://youtu.be/GqH4UHTUf2s](https://youtu.be/GqH4UHTUf2s)
-c)	Click +New Story > Start from scratch.
+a)	Using Google Chrome, go to [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories)  
+b)	Sign in using your Brock University credentials as described in the first minute of this video: [https://youtu.be/GqH4UHTUf2s](https://youtu.be/GqH4UHTUf2s)  
+c)	Click +New Story > Start from scratch.  
 
 
 ### Step One
