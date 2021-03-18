@@ -24,10 +24,22 @@ c)	Click +New Story > Start from scratch.
 
 ### Step Two
 
-1. Click ![textblock](GeocachingAssets\image3.png) and enter the following text "The sport where YOU are the search engine!"
+1. Click ![textblock](./GeocachingAssets/image3.png)and enter the following text "The sport where YOU are the search engine!"
 2. To style it as a quote, highlight the text and select Quote from the dropdown list.  
 
 ![quote](./GeocachingAssets/image4.png)
+
+
+
+### Step Three
+1.	Add Text “What is geocaching?” and format it as a Heading. 
+2.	Now add a paragraph describing geocaching. With the details document open you can copy/paste the text into place.  
+
+>Geocaching is a GPS-enabled treasure hunt played in over 190 countries across the world. In this game, outdoor enthusiasts follow GPS coordinates to explore new locations and find caches hidden by fellow geo-explorers in public spaces. If you find a cache, sign the log book, take a piece of the treasure, leave a piece of treasure then go home and post your experience on http://www.geocaching.com!!
+
+11.	Highlight the URL, hit CTRL-C to copy it then select the link and hit CTRL-V to paste the URL.
+
+
 
 ### Etc.
  
