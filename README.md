@@ -81,8 +81,39 @@ The content is displayed as a “card”. Viewers can click on the card to see m
 ![containers](./GeocachingAssets/image8.png)
 
 
+### Step Seven
+
+1.	Insert **Slideshow Beta** allows you to share a series of related media (images, maps, videos). 
+2.	Add 3 slides (click the plus at the bottom right of the window) using these media images (ThisIsAGeocache1.jpg, ThisIsAGeocache2.jpg, ThisIsAGeocache3.jpg)
+NOTE: see the DETAILS document for slide title ideas.
+
+![MDGL](./GeocachingAssets/image9.png)
 
 
+### Step Eight
+
+1.	To continue with the story, scroll down past the slideshow content.
+2.	Insert a Heading: “What’s in a geocache?”
+3.	Add paragraph text:
+>Each cache should contain a log book for you to sign and date. Depending on the size or type of cache, you may also find small trinkets to trade, instructions for another cache or maybe even a 'travel bug'!
+
+4.	Add image (cache-prizes.jpg)
+
+![cacheprizes](./GeocachingAssets/image10.png)
+
+
+### Step Nine
+
+1.	Insert a **sidecar**. This element uses a large media display on the right with narrative text and media available on the left (known as the ‘sidecar’). Select “Docked panel”.
+2.	Add a Heading on the left: “Travel Bugs” with the following paragraph text describing travel bugs:
+>Travel Bugs are items that have been tagged with a unique code (similar to 'dog tags') and given a purpose. For example, a travel might include a stuffy that wants to travel across Canada by all manner of transportation. If a geocacher grabs a Travel Bug they are agreeing to move the item along to another geocache taking it one step closer to its goal.
+
+3.	Add an image to the sidecar ON THE LEFT (travel-bugs.jpg).
+4.	For the large media display ON THE RIGHT, Click Add media > Add map 
+5.	You will see a listing of maps owned by you OR you can simply select **NEW EXPRESS MAP** at the top right.
+6.	Express Maps are created on-the-fly within the story map environment.
+
+![expressmap](./GeocachingAssets/image11.png)
 
 
 
