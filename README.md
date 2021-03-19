@@ -210,4 +210,4 @@ You can also find us on:
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
-[imglogo]: INSERT LOGO FILENAME HERE
+![imglogo](dsl_logo.png)
