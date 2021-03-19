@@ -176,17 +176,15 @@ As you work to develop your story map, the interface automatically saves your ch
 To access your stories in the future, go to https://storymaps.arcgis.com/stories and sign in using the same credentials you used to create the story map. You will see all your authored stories listed here.
 
 #### Step Sixteen - Continue Learning
-•	Geocaching Story Map https://arcg.is/1Hv9Da  
-•	Story Maps Overview https://bit.ly/2MRMQ7w  
-•	Getting Started with StoryMaps https://bit.ly/2MTQ36F  
-•	Digital Mapping Workshop https://bit.ly/38IkDZv  
-•	Story + Maps: Part 1 https://arcg.is/uWTzC  
-•	Story + Maps: Part 2 https://arcg.is/1rvf0X  
-•	Explore Stories (examples) https://bit.ly/3882V1T  
-•	Qualitative Research Café https://bit.ly/367v6fs  
-•	Putting Your Research on the Map https://bit.ly/2RrxWb9  
-•	Classic Story Map Templates https://bit.ly/33Z7Hf2  
-•	Contact us maplib@brocku.ca or sjanzen@brocku.ca   
+•	Geocaching Story Map [https://arcg.is/1Hv9Da](https://arcg.is/1Hv9Da)  
+•	Story Maps Overview [https://bit.ly/2MRMQ7w](https://bit.ly/2MRMQ7w)  
+•	Getting Started with StoryMaps [https://bit.ly/2MTQ36F](https://bit.ly/2MTQ36F)  
+•	Digital Mapping Workshop [https://bit.ly/38IkDZv](https://bit.ly/38IkDZv)  
+•	Explore Stories (examples) [https://bit.ly/3882V1T](https://bit.ly/3882V1T)  
+•	Qualitative Research Café [https://bit.ly/367v6fs](https://bit.ly/367v6fs)  
+•	Putting Your Research on the Map [https://bit.ly/2RrxWb9](https://bit.ly/2RrxWb9)  
+•	Classic Story Map Templates [https://bit.ly/33Z7Hf2](https://bit.ly/33Z7Hf2)  
+•	Contact us at **maplib@brocku.ca** or **sjanzen@brocku.ca**   
 
  
  
