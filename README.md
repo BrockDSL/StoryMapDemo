@@ -142,7 +142,7 @@ NOTE: see the DETAILS document for slide title ideas.
 >Apple App Store https://itunes.apple.com/app/apple-store/id329541503?pt=61076&ct=Q1-2018-update-logged-out-home-page&mt=8 
    
    
- ### Step Eleven
+### Step Eleven
 
 1.	Insert a heading: “Sources”
 2.	In a Paragraph section, copy and paste the list of sources:
@@ -154,28 +154,28 @@ NOTE: see the DETAILS document for slide title ideas.
 >6.	Getting Started with ArcGIS StoryMaps [website]. (October 30, 2019). Retrieved September 14, 2020 from https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4 
 >7.	ArcGIS StoryMaps Frequently Asked Questions [website]. Retrieved September 14, 2020 from https://doc.arcgis.com/en/arcgis-storymaps/get-started/faq.htm
 
-### STEP TWELVE
+### Step Twelve
 1.	Insert image (Brock-Aerial.jpg)
 2.	Set it to medium width.
 3.	Add a caption “Oh the places you’ll go with geocaching!”
 
 
-### STEP THIRTEEN
+### Step Thirteen
 1.	To tweak the design settings for the entire story, click the Design button at the top of the window.
 2.	Under Theme, explore the options for accent colour, font pairings, etc.
 3.	Other useful settings include activating NAVIGATION. This function lets users jump to specific headings in your story.
 
-### STEP FOURTEEN
+### Step Fourteen
 As you work to develop your story map, the interface automatically saves your changes to the ArcGIS Online cloud. You can click the Preview button at the top to see how your app will look on desktop, tablet or smartphone devices.
 1.	When you are satisfied, click Publish to finish the story map process. You will notice the “checking for issues” window. When prompted, choose a sharing option and click Publish Story.
  
 2.	To share your story map with friends, click the sharing options at the top right of the window  (NOTE: these sharing options will only be available when shared PUBLICLY)
 
 
-### STEP FIFTEEN:
+### Step Fifteen
 To access your stories in the future, go to https://storymaps.arcgis.com/stories and sign in using the same credentials you used to create the story map. You will see all your authored stories listed here.
 
-#### STEP SIXTEEN - Continue Learning
+#### Step Sixteen - Continue Learning
 •	Geocaching Story Map https://arcg.is/1Hv9Da  
 •	Story Maps Overview https://bit.ly/2MRMQ7w  
 •	Getting Started with StoryMaps https://bit.ly/2MTQ36F  
